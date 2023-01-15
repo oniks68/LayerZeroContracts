@@ -1,0 +1,1 @@
+Ich schlage vor, mit dem Senden von Token zwischen Netzwerken fortzufahren. Dabei handelt es sich um speziell von uns erstellte Cross-Chain-Token.
